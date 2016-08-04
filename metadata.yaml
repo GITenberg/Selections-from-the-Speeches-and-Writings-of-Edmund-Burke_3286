@@ -1,0 +1,28 @@
+_repo: Selections-from-the-Speeches-and-Writings-of-Edmund-Burke_3286
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Burke, Edmund
+    birthdate: 1729
+    deathdate: 1797
+    gutenberg_agent_id: '842'
+    url: http://www.gutenberg.org/2009/agents/842
+    wikipedia: http://en.wikipedia.org/wiki/Edmund_Burke
+description: ''
+gutenberg_issued: '2002-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3286'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Essays'
+- !lcsh 'Burke, Edmund, 1729-1797'
+- !lcsh 'Political science'
+- !lcsh 'Speeches, addresses, etc.'
+- GITenberg
+title: Selections from the Speeches and Writings of Edmund Burke
+url: http://www.gutenberg.org/ebooks/3286
